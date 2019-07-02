@@ -6,10 +6,6 @@
 
 ### Andreas Kuczera, Iian Neill, Julian Jarosch
 
-Description
-
-The code of this boilerplate is at https://github.com/digicademy/impress-js-boilerplate
-
-A live demo can be found at http://digicademy.github.io/impress-js-boilerplate/
+https://digicademy.github.io/2019-06-04_GraphsDE_Lausanne_SPEEDy/
 
 Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), @digicademy
