@@ -1,10 +1,10 @@
-### Date | Place
+### 2019-06-04 | Lausanne
 
-# Title
+# SPEEDy
 
-## Subtitle
+## a dynamic Standoff PropErty EDitor
 
-### Author
+### Andreas Kuczera, Iian Neill, Julian Jarosch
 
 Description
 
